@@ -35,10 +35,10 @@ class Student
 
     	void display()
 		 {
-        		cout << "\n--- Student Details ---" << endl;
-        		cout << "The Student name is : " <<s_name << endl;
-        		cout << "The Student roll no is : " << rollno << endl;
-        		cout << "The marks of the student are : " << marks << endl;
+        		cout << "\n--- Student Details ---"<< endl;
+        		cout << "The Student name is :"<<s_name << endl;
+        		cout << "The Student roll no is :"<< rollno << endl;
+        		cout << "The marks of the student are :"<< marks << endl;
 		calculateresult();
 		}
 };
